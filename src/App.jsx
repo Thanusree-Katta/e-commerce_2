@@ -5,7 +5,7 @@ const whatsappNumber = "919133919293";
 const phoneDisplay = "+91 9133919293";
 
 const instagramLink =
-  "https://www.instagram.com/kammanivantillu/";
+  "https://www.instagram.com/kammati._.ruchulu/";
 
 const whatsappChannelLink =
   "https://whatsapp.com/channel/0029VbEDnRpHAdNY8jfxKY24";
